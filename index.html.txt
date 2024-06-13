@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maria Grace Angel CSS</title>
+    <style type="text/css">
+         p{color
+         p{margin-left:20px;}
+         Body background-image:https://images.app.goo.gl/8ZRpMGshPi49T4n46(perpustakaan/back40.gif");
+    </style>
+</head>
+<body>
+<h1>Grace</h1>
+<link rel="stylesheet" type text/css"href="coba.css">
+<h2> Eksternal Style</h2>
+
+<p>
+    <p>Star</p>
+    <p>Moon</p>
+    <p>Sky</p>
+ </p>
+</body>
+</html>
